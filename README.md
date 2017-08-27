@@ -1,2 +1,3 @@
-# git-commands
-Walk through in git commands
+# Git for Noobs ( Ebook )
+
+Get started with Git and GitHub in no time.
